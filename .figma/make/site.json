@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to easily create custom AI-powered applications without coding, streamlining development for businesses and creators.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
